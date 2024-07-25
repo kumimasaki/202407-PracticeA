@@ -1,2 +1,5 @@
-String name;
-int age;
+String name = Cocoa;
+int age = 16;
+if(age<=16){
+System.out.println("なんだー、まだクソガキじゃねぇか！！")
+}
